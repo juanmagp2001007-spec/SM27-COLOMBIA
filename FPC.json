@@ -1,0 +1,129 @@
+
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Alianza Valledupar",
+      "ShortName": "ALI",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1141.png"
+    },
+    {
+      "ID": 2,
+      "Name": "America de Cali",
+      "ShortName": "AME",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1138.png"
+    },
+    {
+      "ID": 3,
+      "Name": "Atletico Bucaramanga",
+      "ShortName": "BUC",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1131.png"
+    },
+    {
+      "ID": 4,
+      "Name": "Fortaleza CEIF",
+      "ShortName": "FOR",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1147.png"
+    },
+    {
+      "ID": 5,
+      "Name": "Atletico Nacional",
+      "ShortName": "NAC",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1137.png"
+    },
+    {
+      "ID": 6,
+      "Name": "Deportivo Pereira",
+      "ShortName": "PER",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1462.png"
+    },
+    {
+      "ID": 7,
+      "Name": "Deportivo Cali",
+      "ShortName": "CAL",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1127.png"
+    },
+    {
+      "ID": 8,
+      "Name": "Deportes Tolima",
+      "ShortName": "TOL",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1142.png"
+    },
+    {
+      "ID": 9,
+      "Name": "Deportivo Pasto",
+      "ShortName": "PAS",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1126.png"
+    },
+    {
+      "ID": 10,
+      "Name": "Jaguares de Cordoba",
+      "ShortName": "JAG",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1133.png"
+    },
+    {
+      "ID": 11,
+      "Name": "Internacional de Bogota",
+      "ShortName": "INT",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1134.png"
+    },
+    {
+      "ID": 12,
+      "Name": "Independiente Medellin",
+      "ShortName": "DIM",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1128.png"
+    },
+    {
+      "ID": 13,
+      "Name": "Llaneros FC",
+      "ShortName": "LLA",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1464.png"
+    },
+    {
+      "ID": 14,
+      "Name": "Junior FC",
+      "ShortName": "JUN",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1135.png"
+    },
+    {
+      "ID": 15,
+      "Name": "Millonarios FC",
+      "ShortName": "MIL",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1125.png"
+    },
+    {
+      "ID": 16,
+      "Name": "Once Caldas",
+      "ShortName": "ONC",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1136.png"
+    },
+    {
+      "ID": 17,
+      "Name": "Envigado FC",
+      "ShortName": "ENV",
+      "ImageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Escudo_de_Envigado_F%C3%BAtbol_Club.svg"
+    },
+    {
+      "ID": 18,
+      "Name": "Aguilas Doradas",
+      "ShortName": "AGU",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1144.png"
+    },
+    {
+      "ID": 19,
+      "Name": "Independiente Santa Fe",
+      "ShortName": "SFE",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1139.png"
+    },
+    {
+      "ID": 20,
+      "Name": "Boyaca Chico",
+      "ShortName": "CHI",
+      "ImageURL": "https://sporradar.com/api/crest/w128/football/teams/1132.png"
+    }
+  ],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
+}
